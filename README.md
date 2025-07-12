@@ -72,9 +72,8 @@ This research project focuses on **Lung Cancer** and employs **multi-omics data*
 ## 🧾 Citation
 -[https://doi.org/10.1158/0008-5472.CAN-07-0003]
 # Dataset 
--[https://www.cbioportal.org/study/summary?id=luad_tcga_pan_can_atlas_2018]
+-[https://www.cbioportal.org/study/summary?id=luad_tcga_pan_can_atlas_2018] <br/>
 -[https://www.cbioportal.org/study/summary?id=lusc_tcga_pan_can_atlas_2018]
-<img width="1546" height="138" alt="image" src="https://github.com/user-attachments/assets/74bad103-00f3-409d-b1d6-a5a58aabcc0b" />
 
 
 
